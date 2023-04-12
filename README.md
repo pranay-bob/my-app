@@ -1,7 +1,1 @@
- const nameArr = ['pranay', 'piyush','archana'];
-
-    const fun =() =>{
-    console.log('i am fun' ,);
-    };
-
-    nameArr.map(fun);
+ https://pranay-bob.github.io/my-app.github.io/
